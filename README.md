@@ -5,5 +5,5 @@
 im a backend developer.
 
 my skills
-*php, nodejs, javascript, typescript, vuejs, css, html, mysql, mongodb, redis, rabbitmq etc. 
+*php, nodejs, javascript, typescript, vuejs, css, html, mysql, mongodb, redis, rabbitmq, docker etc. 
 ```
