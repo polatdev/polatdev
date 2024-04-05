@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Polat, a backend developer 👨‍💻</div>  
+### <div align="center">I'm Polat, backend developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Teknasyon Technology](https://teknasyon.com)  
@@ -19,7 +19,7 @@
 <a href="https://github.com/polatdev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/polatdeveloper" target="_blank">
+<a href="https://twitter.com/polatdbiri" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/polatdev" target="_blank">
